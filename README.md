@@ -5,7 +5,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Nirmitha+Gunasekara!" alt="Sanjula Kusal Gamage" /></a>
     </h1>
-🔍Passionate about Arduino and IoT projects
+  <h3 align="center">🔌 Arduino & IoT 📡 | 🌐🛠️ Web Application Developer | 👨‍💻 Backend Developer</h3>
+
 <div align="center" style="display: block;">
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
@@ -18,7 +19,7 @@ I am an energetic and ambitious person with an excellent sense of responsibility
 
 </details>
 <hr>
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Arduino and IoT projects**
 
 - 📫 How to reach me **nirmithag@gmail.com**
 

@@ -5,9 +5,7 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=B24392&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Nirmitha+Gunasekara!" alt="Sanjula Kusal Gamage" /></a>
     </h1>
-<h3 align="center">Mobile app Developer 📱| Web Application Developer 🌐🛠️| Backend Developer 👨‍💻</h3>
-
-
+🔍Passionate about Arduino and IoT projects
 <div align="center" style="display: block;">
     <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
 </div>
@@ -15,7 +13,7 @@
 
 
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
-
+I am an energetic and ambitious person with an excellent sense of responsibility towards the given tasks with four years of experience in studying Information Technology. Looking for a position to work professional that will allow me to be a good team player with an added value to the organization and looking forward to strengthen my career with dedication and hard working.
 
 
 </details>

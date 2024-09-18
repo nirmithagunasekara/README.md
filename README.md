@@ -39,6 +39,6 @@
 
 <hr>
 <div style="display: flex;">
-    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GamageSK&show_icons=true&locale=en&layout=compact&theme=radical" alt="nirmithag" /></p>
-    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GamageSK&show_icons=true&locale=en&theme=radical" alt="GamageSK" /></p>
+    <p style="margin-right: 5px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirmithagunasekara&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nirmithg" /></p>
+    <p style="margin-left: 5px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nirmithagunasekara&show_icons=true&locale=en&theme=radical" alt="Nirmithg" /></p>
 </div>

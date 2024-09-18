@@ -8,7 +8,7 @@
   <h3 align="center">🔌 Arduino & IoT 📡 | 🌐🛠️ Web Application Developer | 👨‍💻 Backend Developer</h3>
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
+    <img align="center" alt="GIF" src="pro.gif" width="500" height="320" />
 </div>
 
 
